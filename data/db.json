@@ -1,0 +1,219 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "genres": ["Drama"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 9.3
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 91
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "releaseYear": 1972,
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "genres": ["Crime", "Drama"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 9.2
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 98
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Godfather: Part II",
+      "releaseYear": 1974,
+      "director": "Francis Ford Coppola",
+      "actors": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
+      "genres": ["Crime", "Drama"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 9.0
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 97
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "releaseYear": 2008,
+      "director": "Christopher Nolan",
+      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "genres": ["Action", "Crime", "Drama"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 9.0
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 94
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "12 Angry Men",
+      "releaseYear": 1957,
+      "director": "Sidney Lumet",
+      "actors": ["Henry Fonda", "Lee J. Cobb", "Martin Balsam"],
+      "genres": ["Drama"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.9
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Schindler's List",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+      "genres": ["Biography", "Drama", "History"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.9
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 97
+        }
+      ]
+    },  {
+      "id": 21,
+      "title": "Psycho",
+      "releaseYear": 1960,
+      "director": "Alfred Hitchcock",
+      "actors": ["Anthony Perkins", "Janet Leigh", "Vera Miles"],
+      "genres": ["Horror", "Mystery", "Thriller"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.5
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 96
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "The Silence of the Lambs",
+      "releaseYear": 1991,
+      "director": "Jonathan Demme",
+      "actors": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+      "genres": ["Crime", "Drama", "Thriller"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.6
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 95
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "The Shining",
+      "releaseYear": 1980,
+      "director": "Stanley Kubrick",
+      "actors": ["Jack Nicholson", "Shelley Duvall", "Danny Lloyd"],
+      "genres": ["Drama", "Horror"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.4
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 84
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Jurassic Park",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "actors": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+      "genres": ["Adventure", "Sci-Fi"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.1
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 92
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Inception",
+      "releaseYear": 2010,
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.8
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 87
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "The Matrix",
+      "releaseYear": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "genres": ["Action", "Sci-Fi"],
+      "ratings": [
+        {
+          "source": "IMDb",
+          "value": 8.7
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": 88
+        }
+      ]
+    }
+  ]
+}
